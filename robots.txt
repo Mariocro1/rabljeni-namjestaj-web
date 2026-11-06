@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rabljeni-namjestaj.com/sitemap.xml
